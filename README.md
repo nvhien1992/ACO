@@ -1,10 +1,10 @@
 # ACO
     - Ant-Colony Optimization - Thomas Stützle -
 
-This is cloned from http://www.aco-metaheuristic.org/aco-code/public-software.html 
+This is a copy of ACOTSP.V1.03 that is available on http://www.aco-metaheuristic.org/aco-code/public-software.html 
 
     - Course Work - Advanced Database System -
-Anology: TSP (Travelling Salesman Problem) vs QAPP (Querry Access Plan Problem).
+Analogy: TSP (Travelling Salesman Problem) vs QAPP (Querry Access Plan Problem).
 
 Modify ACOTSP to adapt to the new problem (QAPP) mentioned in this paper:
 
