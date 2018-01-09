@@ -1,5 +1,5 @@
 # ACO
-    - Ant-Colony Optimization -
+    - Ant-Colony Optimization - Thomas Stützle -
 
 This is cloned from http://www.aco-metaheuristic.org/aco-code/public-software.html 
 
